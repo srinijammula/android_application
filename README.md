@@ -17,7 +17,7 @@ LoyaltyFirst is an Android-based customer loyalty application developed using Ja
 
 ## Demo Video
 Watch the demo of the **LoyaltyFirst Android Application** here:  
-[![LoyaltyFirst Demo Video](https://www.youtube.com/watch?v=1ewUHE-QMBw)
+[LoyaltyFirst Demo Video](https://www.youtube.com/watch?v=1ewUHE-QMBw)
 
 ## Setup Instructions
 1. Clone this repository:
